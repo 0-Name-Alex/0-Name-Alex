@@ -10,8 +10,8 @@ I work at the intersection of power system dynamics, embedded firmware, PCB layo
 
 | Project | Domain | Stack | Link |
 |---|---|---|---|
-| **TaskHub** | Local-first Windows Task & Automation Hub | `.NET 10` • `C# 14` • `WPF` • `SQLite` | [Repo](https://github.com/0-Name-Alex/TaskHub) • [v1.0.0](https://github.com/0-Name-Alex/TaskHub/releases) |
-| **FileForge** | Low-Memory Universal File Converter & PDF Tools | `.NET 10` • `C# 14` • `Python` • `WPF` | [Repo](https://github.com/0-Name-Alex/FileForge) • [v1.0.0](https://github.com/0-Name-Alex/FileForge/releases) |
+| **TaskHub** | Local-first Windows Task & Automation Hub | `.NET 10` • `C# 14` • `WPF` • `SQLite` | [Repo](https://github.com/0-Name-Alex/TaskHub) • [v1.0.1](https://github.com/0-Name-Alex/TaskHub/releases/tag/v1.0.1) |
+| **FileForge** | Low-Memory Universal File Converter & PDF Tools | `.NET 10` • `C# 14` • `Python` • `WPF` | [Repo](https://github.com/0-Name-Alex/FileForge) • [v1.1.2](https://github.com/0-Name-Alex/FileForge/releases/tag/v1.1.2) |
 | **LifeLine** | Smart Safety Jacket & Edge AI Health Monitor | `ESP32` • `Raspberry Pi` • `ML` • `MQTT` • `Flask` | [Repo](https://github.com/0-Name-Alex/LifeLine) |
 | **Wind Turbine Hybrid Digital Twin** | Physics-Informed ML & 3D Monitoring Twin | `Python` • `Streamlit` • `MATLAB` | [Repo](https://github.com/0-Name-Alex/Wind-Turbine-Hybrid-Digital-Twin) |
 | **Spigen Audio CTRL Windows** | Windows BLE GATT Controller (`SA-HP P10`) | `Python` • `Bleak (BLE)` | [Repo](https://github.com/0-Name-Alex/Spigen-Audio-CTRL-Windows) |
