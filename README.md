@@ -1,26 +1,37 @@
 ### Hi there, I'm Dhayananth 👋
 
-⚡ **Electrical & Electronics Engineer | Embedded Systems & Hardware Enthusiast**
+⚡ **Electrical & Electronics Engineer | Power Systems, Embedded Hardware & Systems Software**
 
-I design at the intersection of bare-metal firmware, PCB layout, and power electronics. Passionate about building functional IoT nodes, sensory telemetry systems, and custom hardware from schematic capture to assembly.
+I work at the intersection of power system dynamics, embedded firmware, PCB layout, and lightweight native desktop tooling—from Siemens PSS®E grid stability studies and KiCad hardware to low-memory .NET 10 Windows applications.
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Domain | Stack | Link |
+|---|---|---|---|
+| **TaskHub** | Local-first Windows Task & Automation Hub | `.NET 10` • `C# 14` • `WPF` • `SQLite` | [Repo](https://github.com/0-Name-Alex/TaskHub) • [v1.0.0](https://github.com/0-Name-Alex/TaskHub/releases) |
+| **FileForge** | Low-Memory Universal File Converter & PDF Tools | `.NET 10` • `C# 14` • `Python` • `WPF` | [Repo](https://github.com/0-Name-Alex/FileForge) • [v1.0.0](https://github.com/0-Name-Alex/FileForge/releases) |
+| **Wind Turbine Hybrid Digital Twin** | Physics-Informed ML & 3D Monitoring Twin | `Python` • `Streamlit` • `MATLAB` | [Repo](https://github.com/0-Name-Alex/Wind-Turbine-Hybrid-Digital-Twin) |
+| **Spigen Audio CTRL Windows** | Windows BLE GATT Controller (`SA-HP P10`) | `Python` • `Bleak (BLE)` | [Repo](https://github.com/0-Name-Alex/Spigen-Audio-CTRL-Windows) |
+| **ZPF Alternator Simulator** | Interactive Potier Triangle & OCC Visualizer | `HTML5` • `Canvas 2D` • `JS` | [Live Demo](https://0-name-alex.github.io/zpf-alternator-simulator/) |
+| **8051 Mechanical MacroPad** | Custom Matrix Keypad PCB & MCU Core | `KiCad 10` • `8051` | [Repo](https://github.com/0-Name-Alex/8051-Mechanical-MacroPad) |
 
 ---
 
 ### 🔭 What I’m Up To
 
-- 🔭 **I’m currently working on:** Custom PCB development, wireless telemetry nodes, and embedded Linux applications.
-- 🌱 **I’m currently learning:** High-speed PCB design rules, real-time operating systems (FreeRTOS), and edge AI acceleration.
-- 👯 **I’m looking to collaborate on:** Open-source hardware tools, sensor networks, and custom microcontroller firmware.
-- 💬 **Ask me about:** Microcontroller architectures (ESP32, PIC, ARM), KiCad schematics, power converter stages, or Python for engineering analysis.
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/dhayananthj) • [Website](https://dhayananth.me)
-- ⚡ **Fun fact:** I spend just as much time diagnosing ground loops and noise with an oscilloscope as I do debugging code.
+- 🔭 **Currently working on:** Native Windows engineering utilities (`.NET 10`), power system BESS frequency regulation, custom PCBs, and wireless BLE tooling.
+- 🌱 **Currently exploring:** High-speed PCB design rules, FreeRTOS, Physics-Informed ML digital twins, and ultra-lean desktop memory governors.
+- 💬 **Ask me about:** Power system stability (`PSS®E`), power electronics (`DAHB`, `SVPWM`), KiCad schematics, embedded architectures (`ESP32`, `PIC`, `8051`, `ARM`), or `.NET` / Python systems engineering.
+- 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/dhayananthj) • [Project Hub](https://dhayananth.me) • [Portfolio](https://github-portfolio-five-dun.vercel.app/)
 
 ---
 
 ### 🛠️ Tech Stack & Toolchain
 
-- **Microcontrollers & Platforms:** ESP32, ESP8266, PIC16F, 8051, Raspberry Pi, ARM Cortex-M
-- **Firmware & Software:** Embedded C/C++, Python, MATLAB / Simulink, AssemblyS
-- **EDA & Hardware Design:** KiCad, OrCAD Capture, COMSOL
-- **Protocols & Buses:** I2C, SPI, UART, PWM, ADC/DAC interfacing
-- **DevOps & Environments:** Linux / Bash, Git, Docker
+- **Power Systems & Simulation:** Siemens PSS®E 36 (`psspy`), MATLAB / Simulink, COMSOL, OpenFAST
+- **Desktop & Systems Software:** .NET 10 (C# 14, WPF), Python 3, Streamlit, SQLite
+- **Embedded & Firmware:** Embedded C/C++, Assembly, ESP32, PIC16F, 8051, ARM Cortex-M, Raspberry Pi
+- **EDA & Hardware:** KiCad 10 (`kicad-cli`), OrCAD Capture, I2C, SPI, UART, BLE GATT, PWM
+- **DevOps & Environments:** Git, GitHub Actions, PowerShell, Linux / Bash, Docker
